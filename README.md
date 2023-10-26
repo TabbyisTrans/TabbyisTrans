@@ -9,6 +9,7 @@
 ![GitHub](https://img.shields.io/github/license/TabbyisTrans/TabbyisTrans?style=for-the-badge&logo=creativecommons&logoColor=%2389b4fa&labelColor=%231e1e2e&color=%2389b4fa)
 ![Website](https://img.shields.io/website?up_message=Online!%20%3A3&up_color=%23b4befe&down_message=Offline!%20%3A(&down_color=%23b4befe&url=https%3A%2F%2FTabbyisTrans.github.io%2F&style=for-the-badge&logo=githubsponsors&logoColor=%23b4befe&labelColor=%231e1e2e&color=%23b4befe )
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TabbyisTrans&show_icons=true&theme=catppuccin_mocha)
 </div>
 
 - 👋 Hi, I’m @TabbyisTrans
